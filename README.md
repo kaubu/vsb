@@ -33,6 +33,19 @@ N/a
 
 <!-- TODO: Add examples here -->
 
+## Building
+Build:
+
+```sh
+wasm-pack build
+```
+
+Publish to NPM:
+
+```sh
+wasm-pack publish
+```
+
 ## License
 
 Licensed under either of
